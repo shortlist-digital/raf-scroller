@@ -1,10 +1,15 @@
 {
   "name": "raf-scroller",
   "version": "1.0.0",
-  "description": "Debounce the scroll event and leverage rAF",
+  "description": "Debounce the scroll event and leverage rAF - https://github.com/shortlist-digital/raf-scroller",
   "main": "index.js",
+  "author": "Simon Donaldson <simondonaldson@gmail.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shortlist-digital/raf-scroller.git"
   },
   "keywords": [
     "raf",
@@ -12,6 +17,7 @@
     "debounce",
     "javascript"
   ],
-  "author": "Simon Donaldson",
+  "dependencies": {},
+  "devDependencies": {},
   "license": "ISC"
 }
