@@ -1,0 +1,17 @@
+{
+  "name": "raf-scroller",
+  "version": "1.0.0",
+  "description": "Debounce the scroll event and leverage rAF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raf",
+    "scroll",
+    "debounce",
+    "javascript"
+  ],
+  "author": "Simon Donaldson",
+  "license": "ISC"
+}
